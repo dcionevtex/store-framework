@@ -36,3 +36,16 @@
     font-weight: bold;
      
   }
+
+  .infoCardHeadline {
+
+    color: black;
+    font-weight: bold;
+     
+  }
+
+  .infoCardContainer{
+    padding: 0px;
+    max-width: 1260;
+    margin:0auto;
+  }
