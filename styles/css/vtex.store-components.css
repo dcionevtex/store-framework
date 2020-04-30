@@ -5,13 +5,14 @@
     font-weight: bold;
     color: black;
     border: 2px solid black;
+    
 
 }
 
 .infoCardContainer{
-    padding: 0;
     max-width: 1260px;
     margin: auto;
+    padding: 0;
   }
 
 
