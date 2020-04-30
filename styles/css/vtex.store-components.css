@@ -44,7 +44,8 @@
      
   }
 
-  .infoCardContainer{
+  .infoCardImageContainer
+  {
     padding: 0;
     max-width: 1260px;
     margin:0auto;
