@@ -5,6 +5,7 @@
     font-weight: bold;
     color: black;
     border: 2px solid black;
+    padding:24px;
 }
 
 .infoCardCallActionContainer :global(.vtex-button) {
@@ -30,6 +31,6 @@
 .infoCardContainer {
     max-width: 1260px;
     margin: auto;
-    padding: 0;
+    padding: 0px;
   }
 
