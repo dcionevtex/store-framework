@@ -2,8 +2,8 @@
 .infoCardHeadline {
     font-family: serif;
     font-size: 2.25rem;
-    font-weight: normal;
-    color: gray;
+    font-weight: bold;
+    color: black;
     border: 2px solid black;
 
 }
@@ -28,19 +28,6 @@
     background-color: #e1e1e1
   }
 
-  .infoCardHeadline {
-
-    color: black;
-    font-weight: bold;
-     
-  }
-
-  .infoCardHeadline {
-
-    color: black;
-    font-weight: bold;
-     
-  }
 
   .infoCardContainer{
     padding:0;
